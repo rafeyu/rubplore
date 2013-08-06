@@ -1,0 +1,19 @@
+Catatan penting dari si Ruby
+============================
+
+email ||= true
+# maksudnya:
+	email=true if email.empty?
+	(email tetap true bila nilainya kosong)
+	
+if email != nil
+	bla..bla
+end
+# bad code
+	seharusnya cukup 
+	if email
+		bla..bla
+	end
+
+Custom gems I use:
+ocra (rb to exe)

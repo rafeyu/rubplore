@@ -1,0 +1,1 @@
+ocra --no-autoload --no-autodll --icon error.ico --output ssc.exe --no-enc sscV2.5.rb

@@ -1,0 +1,11 @@
+V 2.5
+- time option. Add time command on seconds
+- add 'abort' command to abort shutdown or restart command
+
+V 1.0
+- change icon
+- decrease the SSC`s size
+
+V 0.1b
+- add 'ssc shutdown' command to shutdown
+- add 'ssc restart' command to restart

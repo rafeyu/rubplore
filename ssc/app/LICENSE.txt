@@ -1,0 +1,7 @@
+SIMPLE SHUTDOWN COMMAND
+
+SIMPLE SHUTDOWN COMMAND or SSC is software that developed by Ramdziana Feri Yustitianto (rafeyu). SSC is not using a license from official License institutions yet.
+
+You can free to distribute SSC because this software is FREEWARE.
+
+(c)2012-2013, Ramdziana Feri Yustitianto
